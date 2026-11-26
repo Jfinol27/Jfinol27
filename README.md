@@ -12,7 +12,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Jose from Venezuela<br><br>- 🔭 I’m working as Computer Engineer<br>- 📚 Trying to be a Full-Stack Developer<br>- ⚡ Passionate about the world of data and new technologies</p>
+<p data-importer="text" align="left">I'm Jose Finol from Venezuela :) <br><br>- 🔭 I’m working as Computer Engineer<br>- 📚 Trying to be a Full-Stack Developer<br>- ⚡ Passionate about the world of data and new technologies</p>
 
 ###
 
